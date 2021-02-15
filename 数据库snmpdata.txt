@@ -1,0 +1,4 @@
+本次毕业设计所涉及到的数据库为snmpdata，所含表detect_ip,polling,user
+detect_ip：定时轮询探测任务时要探测的设备ip
+polling：轮询探测所获取的设备信息
+user：登陆系统的账号和密码
